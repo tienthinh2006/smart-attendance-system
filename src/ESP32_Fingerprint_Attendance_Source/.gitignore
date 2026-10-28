@@ -1,0 +1,8 @@
+.pio/
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+
+# Config.h chứa mật khẩu WiFi -> không đưa lên git. Dùng include/Config.example.h làm mẫu.
+include/Config.h
