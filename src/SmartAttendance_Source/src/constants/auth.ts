@@ -1,0 +1,5 @@
+/**
+ * AUTHENTICATION CONSTANTS
+ */
+export const DEFAULT_EMPLOYEE_PASSWORD = 'abc@123';
+

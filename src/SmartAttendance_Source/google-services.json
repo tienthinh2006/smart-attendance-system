@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195122339571",
+    "firebase_url": "https://hihihaha-6f707-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hihihaha-6f707",
+    "storage_bucket": "hihihaha-6f707.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195122339571:android:f55e630fc4d6bd59fea186",
+        "android_client_info": {
+          "package_name": "com.chamcongapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195122339571-314hgeo2ldhv17c7err3eke61p1g73cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNSoTirQQPWtw5w6VjIXGlq6Np9B0XbY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195122339571-314hgeo2ldhv17c7err3eke61p1g73cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
